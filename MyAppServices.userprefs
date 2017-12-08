@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{3D714F4A-122B-4AAF-A5F7-C615F772CE67}|">
+  <MonoDevelop.Ide.ItemProperties.MyAppServices PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Payment.cs">
+    <Files>
+      <File FileName="Controllers/CustomerController.cs" Line="24" Column="40" />
+      <File FileName="Controllers/Prod.cs" Line="11" Column="7" />
+      <File FileName="Controllers/ResController.cs" Line="2" Column="1" />
+      <File FileName="Controllers/ProductController.cs" Line="13" Column="8" />
+      <File FileName="Models/Product.cs" Line="28" Column="27" />
+      <File FileName="Models/DataAccess.cs" Line="202" Column="111" />
+      <File FileName="Models/Customer.cs" Line="1" Column="1" />
+      <File FileName="Models/Payment.cs" Line="11" Column="9" />
+      <File FileName="Controllers/PaymentController.cs" Line="17" Column="38" />
+      <File FileName="Controllers/OrderController.cs" Line="20" Column="32" />
+      <File FileName="Models/Order.cs" Line="23" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
